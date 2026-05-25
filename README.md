@@ -22,4 +22,4 @@ Projeto Front-End desenvolvido em React inspirado em plataformas fitness, com fo
 
 - Estruturação de layout responsivo
 
-= Experiência otimizada para diferentes dispositivos
+- Experiência otimizada para diferentes dispositivos
